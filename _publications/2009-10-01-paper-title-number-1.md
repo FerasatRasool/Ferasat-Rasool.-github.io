@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Interaction of lateral core stability muscles and kinetic variables in the Medio-lateral direction according to the level of physical activity"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-core-stability-muscles
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2024-03-20
+venue: 'Studies in Sport Medicine'
+paperurl: 'https://doi.org/10.22089/smj.2022.12020.1558'
+citation: 'Ferasat, R., Sadeghi, H., & Matinhomaee, H. (2024). Interaction of lateral core stability muscles and kinetic variables in the Medio-lateral direction according to the level of physical activity. Studies in Sport Medicine, 16(39), 33-46.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The aim of this study was to investigate the interaction between lateral core stability area muscles function, ground reaction force and changes in center of mass to pressure in the Medio-lateral direction during gait according to the level of physical activity.
